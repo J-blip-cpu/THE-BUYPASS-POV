@@ -1,0 +1,9 @@
+{
+  "supported_origins": ["*"],
+  "name": "Buypass Method",
+  "icons": [{
+    "src": "/favicon.ico",
+    "sizes": "48x48",
+    "type": "image/x-icon"
+  }]
+}
